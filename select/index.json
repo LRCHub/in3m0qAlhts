@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "蜃気楼",
+  "base_artist": "frederic",
+  "createdAt": "2025-12-05T18:02:15.143640Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "真山りか",
+      "has_synced": true,
+      "path": "select/01_蜃気楼_真山りか.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/02_蜃気楼_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "10-FEET feat. Hakubi",
+      "has_synced": false,
+      "path": "select/03_蜃気楼_10-FEET_feat._Hakubi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "10-FEET, Hakubi",
+      "has_synced": false,
+      "path": "select/04_蜃気楼_10-FEET,_Hakubi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "BLU-SWING",
+      "has_synced": true,
+      "path": "select/05_蜃気楼_BLU-SWING.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "BLU‐SWING",
+      "has_synced": true,
+      "path": "select/06_蜃気楼_BLU‐SWING.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "蜃気楼 - EP version -",
+      "artist": "Minuano",
+      "has_synced": true,
+      "path": "select/07_蜃気楼_-_EP_version_-_Minuano.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "蜃気楼 (Ryu☆Remix) feat.Mayumi Morinaga",
+      "artist": "Another Infinity feat. Mayumi Morinaga",
+      "has_synced": false,
+      "path": "select/08_蜃気楼_(Ryu☆Remix)_feat.Mayumi_Morinaga_Another_Infinity_feat._Mayumi_Morinaga.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "Alice Nine",
+      "has_synced": true,
+      "path": "select/09_蜃気楼_Alice_Nine.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "Fujifabric",
+      "has_synced": false,
+      "path": "select/10_蜃気楼_Fujifabric.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "フジファブリック",
+      "has_synced": false,
+      "path": "select/11_蜃気楼_フジファブリック.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "TatshMusicCircle",
+      "has_synced": false,
+      "path": "select/12_蜃気楼_TatshMusicCircle.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "クリスタルキング",
+      "has_synced": false,
+      "path": "select/13_蜃気楼_クリスタルキング.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "MY FIRST STORY",
+      "has_synced": true,
+      "path": "select/14_蜃気楼_MY_FIRST_STORY.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "10-FEET",
+      "has_synced": true,
+      "path": "select/15_蜃気楼_10-FEET.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "真山りか",
+      "has_synced": false,
+      "path": "select/16_蜃気楼_真山りか.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "蜃気楼 (Ryu☆Remix)",
+      "artist": "Another Infinity feat. Mayumi Morinaga",
+      "has_synced": false,
+      "path": "select/17_蜃気楼_(Ryu☆Remix)_Another_Infinity_feat._Mayumi_Morinaga.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "蜃気楼 (Ryu☆Remix)",
+      "artist": "Another Infinity",
+      "has_synced": false,
+      "path": "select/18_蜃気楼_(Ryu☆Remix)_Another_Infinity.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "蜃気楼",
+      "artist": "Another Infinity",
+      "has_synced": false,
+      "path": "select/19_蜃気楼_Another_Infinity.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "蜃気楼",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_01_蜃気楼_フレデリック.txt"
+    }
+  ]
+}
